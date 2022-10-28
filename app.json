@@ -42,12 +42,12 @@
       "OWNER_ID": {
          "description": "Leave it dont change.",
          "required": true,
-         "value": "928257454"
+         "value": "5756197504"
       },
       "BOT_ID": {
          "description": "Your bot ID.. Use any other bot to get it.",
          "required": true,
-         "value": ""
+         "value": "5635566996"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -89,7 +89,7 @@
       "DEV_USERS": {
          "description": "Dont change this leave it",
          "required": false,
-         "value": "1912630709"
+         "value": "5756197504"
       },
       "SPAMWATCH_API": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
@@ -103,17 +103,17 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo usersand dont change this id ",
          "required": false,
-         "value": "1912630709"
+         "value": "5756197504"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who can use Gban From Your Bot and Dont change this id",
          "required": false,
-         "value": "1912630709"
+         "value": "5756197504"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who can not be banned by your Bot and dont change this id",
          "required": false,
-         "value": "1912630709"
+         "value": "5756197504"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
