@@ -170,17 +170,17 @@
       "MONGO_DB_URI": {
          "description": "Your Mongo DB URI",
          "required": true,
-         "value": ""
+         "value": "mongodb+srv://bot:bot@cluster0.ycfuujm.mongodb.net/?retryWrites=true&w=majority"
       },
       "ARQ_API_KEY": {
          "description": "Get one @ARQRobot on Telegram",
          "required": true,
-         "value": ""
+         "value": "XCKERH-VPWYNB-QJGJBS-WBKMWQ-ARQ"
       },
       "LOG_GROUP_ID": {
          "description": "The ID of the Group where the bot will spam with shitty errors and techy stuff",
          "required": true,
-         "value": ""
+         "value": "-718809647"
       },
       "WALL_API": {
          "description": "Required for wallpaper. Get your's from https://wall.alphacoders.com/",
